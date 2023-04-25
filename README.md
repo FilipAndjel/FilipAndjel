@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Full Stack Web & Mobile Developer focused on React.js, Node.js, and React Native    
 
-<!--
-**FilipAndjel/FilipAndjel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there, I am a full-stack web developer with 6+ years of experience and a mobile developer with 3+ years of experience.
+If you are looking for a developer who has extensive experience for web and mobile development using javascript frameworks, I am a great fit for the role.
 
-Here are some ideas to get you started:
+## ✅ I have expertise with the following technologies:
+ 🖥 Languages: Javascript, Typescript
+ 🖥 Frontend: React.js, Next.js, Redux, HTML5, CSS, SCSS, Bootstrap, Tailwind CSS, Material UI, etc
+ 🖥 Backend: Node.js, Express.js, Firebase, Strapi
+ 🖥 Database: MongoDB, MySQL, PostgreSQL
+ 🖥 Mobile: React Native
+ 🖥 Web3: Web3.js, Ethers.js, Solidity
+ 🖥 CI/CD Tools: Github Actions, CircleCI, Jenkins
+ 🖥 Cloud: AWS, Azure, Heroku, Firebase, Google Cloud, Vercel, Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me and let me help you build your next great software.
